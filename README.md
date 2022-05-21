@@ -1,21 +1,23 @@
 # CPP-Challenge
 
+Exercices from book "The Modern C++ Challange"
+
 ### [Math Problems](MathProblems/)
 
 1. Sum of naturals divisible by 3 and 5
-2. Greatest common divisor] 
-3. Least common multiple] 
-4. Largest prime smaller than givin number] 
-5. Sexy prime pairs] 
-6. Abundant numbers] 
-7. Amicable numbers] 
-8. Armstrong numbers] 
-9. Prime factors of a number] 
-10. Gray code] 
-11. Converting numerical values to Roman] 
-12. Largest Collatz sequence] 
-13. Computing the value of Pi] 
-14. Validating ISBNs] 
+2. Greatest common divisor 
+3. Least common multiple
+4. Largest prime smaller than givin number 
+5. Sexy prime pairs 
+6. Abundant numbers 
+7. Amicable numbers 
+8. Armstrong numbers 
+9. Prime factors of a number 
+10. Gray code
+11. Converting numerical values to Roman
+12. Largest Collatz sequence 
+13. Computing the value of Pi 
+14. Validating ISBNs
 
 
 ### [Language Features](LanguageFeatures/)
